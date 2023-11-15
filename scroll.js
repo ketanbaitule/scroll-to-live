@@ -12,11 +12,6 @@ const backgroundColors = [
     '#00ffff', // Cyan
     '#ff7f00', // Orange
     '#7f00ff', // Purple
-    '#008080', // Teal
-    '#800080', // Purple
-    '#008000', // Dark Green
-    '#800000', // Maroon
-    '#808080', // Gray
   ];
   
   const textColors = [
@@ -31,10 +26,7 @@ const backgroundColors = [
     '#ffffff', // White text on purple background
     '#ffffff', // White text on teal background
     '#ffffff', // White text on purple background
-    '#ffffff', // White text on dark green background
-    '#ffffff', // White text on maroon background
-    '#000000', // Black text on gray background
-  ];
+    ];
   
   // You can use these arrays to pair background and text colors in your styles or applications
   
